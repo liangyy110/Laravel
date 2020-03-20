@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Laravel-test</title>
+        <title>Laravel-test1</title>
         <style>
             html, body {
                 height: 100%;
